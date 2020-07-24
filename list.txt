@@ -1,0 +1,2 @@
+python-operating-system
+python-crash-course
